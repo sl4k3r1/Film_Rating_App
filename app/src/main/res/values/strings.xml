@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Film Rating App</string>
+    <string name="title_activity_tela_principal">Film Rating</string>
+    <string name="title_activity_tela_perfil">Tela de Perfil</string>
+    <string name="login">Login</string>
+    <string name="text_cadastro">Criar uma conta</string>
+    <string name="titulo_cadastro">Cadastre-se</string>
+    <string name="title_tela_login">Tela Login</string>
+</resources>
